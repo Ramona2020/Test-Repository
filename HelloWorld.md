@@ -7,7 +7,6 @@
 
 ### I like practicing!
 
-
-## Goodbye World
-
 This is crazy
+
+## Practice makes perfect
